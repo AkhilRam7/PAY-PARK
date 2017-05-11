@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\koushik1\\Desktop\\serial_test\\parkk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\koushik1\\Desktop\\serial_test\\parkk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\koushik1\\AndroidStudioProjects\\parkk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\koushik1\\AndroidStudioProjects\\parkk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
